@@ -13,7 +13,7 @@
 #  ambient_sensor_label: "Ambient Sensor (BMP280)"
 #packages:
 #  base_package:
-#    url: https://github.com/mariodivece/esphometemplates/
+#    url: https://github.com/DeltaAngle/esphometemplates/
 #    ref: main
 #    file: afc-v1.yaml
 #    refresh: 0d
@@ -32,7 +32,7 @@ substitutions:
   device_model: "AFC V1"
   device_make: "Bullet Automation"
   package_version: "2024.11.24"
-  package_url: "github://mariodivece/esphometemplates/afc-v1.yaml@main"
+  package_url: "github://DeltaAngle/esphometemplates/afc-v1.yaml@main"
 
   log_level: INFO
 
@@ -56,7 +56,7 @@ dashboard_import:
 # Import packages
 packages:
   standard_package:
-    url: https://github.com/mariodivece/esphometemplates/
+    url: https://github.com/DeltaAngle/esphometemplates/
     ref: main
     refresh: 0d
     files:

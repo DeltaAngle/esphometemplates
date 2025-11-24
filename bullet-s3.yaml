@@ -12,7 +12,7 @@ substitutions:
   device_model: "Bullet S3"
   device_make: "Bullet Automation"
   package_version: "2024.4.27"
-  package_url: "github://mariodivece/esphometemplates/bullet-s3.yaml@main"
+  package_url: "github://DeltaAngle/esphometemplates/bullet-s3.yaml@main"
 
   log_level: INFO
 
@@ -48,7 +48,7 @@ i2c:
 # Import packages
 packages:
   standard_package:
-    url: https://github.com/mariodivece/esphometemplates/
+    url: https://github.com/DeltaAngle/esphometemplates/
     ref: main
     refresh: 0d
     files:

@@ -7,7 +7,7 @@ substitutions:
 
 # Allow importing this package
 dashboard_import:
-  package_import_url: "github://mariodivece/esphometemplates/shelly-rgbw2/scripts-4ch.yaml@main"
+  package_import_url: "github://DeltaAngle/esphometemplates/shelly-rgbw2/scripts-4ch.yaml@main"
   import_full_config: false
 
 script:

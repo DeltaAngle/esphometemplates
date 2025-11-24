@@ -14,7 +14,7 @@ substitutions:
   device_model: "Player S3"
   device_make: "Bullet Automation"
   package_version: "2024.2.26"
-  package_url: "github://mariodivece/esphometemplates/player-s3.yaml@main"
+  package_url: "github://DeltaAngle/esphometemplates/player-s3.yaml@main"
 
 # Allow importing this package
 dashboard_import:
@@ -24,7 +24,7 @@ dashboard_import:
 # Import packages
 packages:
   standard_package:
-    url: https://github.com/mariodivece/esphometemplates/
+    url: https://github.com/DeltaAngle/esphometemplates/
     ref: main
     refresh: 0d
     files:

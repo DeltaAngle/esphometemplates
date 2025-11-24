@@ -4,7 +4,7 @@ substitutions:
 
 packages:
   somepackagename:
-    url: https://github.com/mariodivece/esphometemplates/
+    url: https://github.com/DeltaAngle/esphometemplates/
     ref: main
     file: samples/scrapbook.yaml
     refresh: 0s

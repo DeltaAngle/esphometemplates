@@ -27,7 +27,7 @@ esp32:
     type: arduino
 
 dashboard_import:
-  package_import_url: github://mariodivece/esphometemplates/samples/scrapbook.yaml@main
+  package_import_url: github://DeltaAngle/esphometemplates/samples/scrapbook.yaml@main
   import_full_config: false
 
 # Enable logging

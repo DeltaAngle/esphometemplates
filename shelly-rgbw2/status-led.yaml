@@ -1,6 +1,6 @@
 # Allow importing this package
 dashboard_import:
-  package_import_url: "github://mariodivece/esphometemplates/shelly-rgbw2/status-led.yaml@main"
+  package_import_url: "github://DeltaAngle/esphometemplates/shelly-rgbw2/status-led.yaml@main"
   import_full_config: false
 
 light:

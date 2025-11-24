@@ -14,7 +14,7 @@ substitutions:
   device_model: "RGBW2"
   device_make: "Shelly"
   package_version: "2024.2.15"
-  package_url: "github://mariodivece/esphometemplates/shelly-rgbw2-4ch.yaml@main"
+  package_url: "github://DeltaAngle/esphometemplates/shelly-rgbw2-4ch.yaml@main"
 
 # Allow importing this package
 dashboard_import:
@@ -24,7 +24,7 @@ dashboard_import:
 # Import packages
 packages:
   standard_package:
-    url: https://github.com/mariodivece/esphometemplates/
+    url: https://github.com/DeltaAngle/esphometemplates/
     ref: main
     refresh: 0d
     files:
@@ -33,7 +33,7 @@ packages:
       - standard/wifi.yaml
       
   shelly_package:
-    url: https://github.com/mariodivece/esphometemplates/
+    url: https://github.com/DeltaAngle/esphometemplates/
     ref: main
     refresh: 0d
     files:
