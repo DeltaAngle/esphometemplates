@@ -44,7 +44,7 @@ wifi:
   # password for hostspot is the same as password for net AP (needs captive_portal)
   ap:
     ssid: "${device_code}-setup"
-    password: "${wifi_password}"
+    password: ""
     ap_timeout: 5min
 
 captive_portal:
