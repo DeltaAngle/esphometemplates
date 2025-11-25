@@ -28,6 +28,7 @@ text_sensor:
 
   - platform: uptime
     name: Uptime
+    disabled_by_default: true
 
 binary_sensor:
   # Diagnostic sensor for connection
