@@ -25,11 +25,11 @@ esphome:
   project:
     name: "${device_make}.${device_model}"
     version: "${package_version}"
-  on_boot:
-  - priority: 900.0
-    then:
-      - lambda: |-
-          id(cpu_speed) = ESP.getCpuFreqMHz();
+  # on_boot:
+  # - priority: 900.0
+  #   then:
+  #     - lambda: |-
+  #         id(cpu_speed) = ESP.getCpuFreqMHz();
 
 text_sensor:
   # Show firmware template version
