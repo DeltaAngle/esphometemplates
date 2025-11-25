@@ -43,13 +43,13 @@ substitutions:
   device_location_name: "Bedroom 1"
   device_type_code: "wasw"
   device_type_name: "Wall Switch"
-  device_number: "044"
+  device_number: "04"
   device_ip: "0.0.0.0"
 
   # Project Substitutions (not intended for user substitution)
   device_model: "Switchman M5 (1-Gang)"
   device_make: "Sonoff"
-  package_version: "2025.11.23"
+  package_version: "2025.11.24"
   package_url: "github://DeltaAngle/esphometemplates/sonoff-m5-1g-us.yaml@main"
 
   # Relay Configurations
